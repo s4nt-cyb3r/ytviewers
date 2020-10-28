@@ -13,4 +13,6 @@ $pip install mechanize requests bs4
 
 $git clone https://github.com/BladeKnife/ytviews
 
-$cd ytviews  $python sub.py
+$cd ytviews 
+
+$python sub.py
